@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Debs0007
 - 👀 I’m interested in ... Tech
-- 🌱 I’m currently learning ... Statistics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 Bagged a BSC in ... Statistics
 
 <!---
 Debs0007/Debs0007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
